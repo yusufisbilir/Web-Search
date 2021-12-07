@@ -1,6 +1,6 @@
 # Search App With Reactjs
 
-Demo: https://reactjs-tailwind-search.netlify.app/search
+Demo: https://reactjs-tailwind-search.netlify.app
 
 ## ToolBox
 
