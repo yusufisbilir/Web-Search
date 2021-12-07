@@ -1,5 +1,15 @@
+import { Navbar } from './components/Navbar';
+import { Footer } from './components/Footer';
+import { Routes } from './components/Routes';
+
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div>
+      <Navbar />
+      <Routes />
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
